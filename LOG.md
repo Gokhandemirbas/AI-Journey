@@ -1,0 +1,1 @@
+* **8 Ocak 2026**: Python ortamı (ai-dersleri) başarıyla yapılandırıldı. NumPy 2.2.5 test edildi ve sistemin DSP/AI projeleri için hazır olduğu teyit edildi.
